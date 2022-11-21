@@ -7,6 +7,8 @@ public class Main {
         System.out.println("-----------------------------------------");
 
         checkNumber(0);
+        checkNumber(100);
+        checkNumber(-100);
 
     }
 
